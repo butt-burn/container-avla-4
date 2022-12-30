@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "butt-burn",
+  "repo": "container-avla-4",
+  "name": "butt-burn",
+}
